@@ -2,20 +2,20 @@
   "channels": [
     {
       "Owner": "94742711779",
-      "chname": "🔮🔮🔮🔮🔮",
+      "channelname": "",
       "jid": "120363420152355428@newsletter",
       "invite": "0029VbAqdS842DceLEAK4v3W",
-      "forwardTo": "120363200165503372@newsletter",
-      "react": ".cnrr"
+      "forwardTo": "120363420305811672@newsletter",
+      "react": ".cnrr",
       "ExpireDate": "2025/07/24",
       "ExpireTime": "4000"
     },
     {
       "Owner": "94742711779",
-      "chname": "🔮🔮🔮🔮🔮",
+      "channelname": "",
       "jid": "120363403603955755@newsletter",
       "invite": "0029VbB4Yg4JENxxlGezqZ2x",
-      "forwardTo": "120363401166763499@newsletter",
+      "forwardTo": "120363420305811672@newsletter",
       "react": ".cnrsv",
       "ExpireDate": "2025/07/24",
       "ExpireTime": "4000"

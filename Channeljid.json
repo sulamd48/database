@@ -8,7 +8,7 @@
       "forwardTo": "120363420305811672@newsletter",
       "react": ".cnrr",
       "ExpireDate": "2025/08/22",
-      "deleteDelay": 4000
+      "deleteDelay": "8000"
     },
     {
       "Owner": "94778034260",
@@ -18,7 +18,7 @@
       "forwardTo": "120363420305811672@newsletter",
       "react": ".cnrr",
       "ExpireDate": "2025/08/22",
-      "deleteDelay": 4000
+      "deleteDelay": "4000"
     }
   ]
 }

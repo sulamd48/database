@@ -7,18 +7,8 @@
       "invite": "0029VbAuaa11SWsyqTeeBt1q",
       "forwardTo": "120363420305811672@newsletter",
       "react": ".cnrr",
-      "ExpireDate": "2025/07/24",
-      "ExpireTime": "4000"
-    },
-    {
-      "Owner": "94742711779",
-      "channelname": "",
-      "jid": "120363403603955755@newsletter",
-      "invite": "0029VbB4Yg4JENxxlGezqZ2x",
-      "forwardTo": "120363420305811672@newsletter",
-      "react": ".cnrsv",
-      "ExpireDate": "2025/07/24",
-      "ExpireTime": "4000"
+      "ExpireDate": "2025/08/22",
+      "deleteDelay": 4000
     }
   ]
 }

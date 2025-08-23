@@ -11,6 +11,16 @@
       "deleteDelay": "8000"
     },
     {
+      "Owner": "team",
+      "channelname": "DTZ",
+      "jid": "120363396379901844@newsletter",
+      "invite": "0029Vb4NzEGDOQIP2mJXmo3T",
+      "forwardTo": "120363420305811672@newsletter",
+      "react": ".cnrh",
+      "Date": "2025/08/23",
+      "deleteDelay": "4000"
+    },
+    {
       "Owner": "94778034260",
       "channelname": "poddha aiya",
       "jid": "120363336325414231@newsletter",

@@ -7,7 +7,7 @@
       "invite": "0029VbAuaa11SWsyqTeeBt1q",
       "forwardTo": "120363420305811672@newsletter",
       "react": ".cnrl",
-      "ExpireDate": "2025/08/22",
+      "Date": "2025/08/22",
       "deleteDelay": "8000"
     },
     {
@@ -17,7 +17,7 @@
       "invite": "0029VatdUy24IBhG73sjEg31",
       "forwardTo": "120363420305811672@newsletter",
       "react": ".cnrr",
-      "ExpireDate": "2025/08/22",
+      "Date": "2025/08/22",
       "deleteDelay": "4000"
     },
     {
@@ -27,7 +27,7 @@
       "invite": "0029Vb6noY33LdQYHdpf9334",
       "forwardTo": "120363420305811672@newsletter",
       "react": ".cnrr",
-      "ExpireDate": "2025/08/22",
+      "Date": "2025/08/23",
       "deleteDelay": "4000"
     }
   ]

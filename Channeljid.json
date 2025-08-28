@@ -1,16 +1,6 @@
 {
   "channels": [
     {
-      "Owner": "94760663165605",
-      "channelname": "Reel Hub",
-      "jid": "120363420844715978@newsletter",
-      "invite": "0029VbAuaa11SWsyqTeeBt1q",
-      "forwardTo": "120363420305811672@newsletter",
-      "react": ".cnrl",
-      "Date": "2025/08/22",
-      "deleteDelay": "8000"
-    },
-    {
       "Owner": "94778034260",
       "channelname": "poddha aiya",
       "jid": "120363336325414231@newsletter",

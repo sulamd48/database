@@ -59,6 +59,16 @@
       "react": ".cnrl",
       "Date": "2025/08/30",
       "deleteDelay": "4000"
+    },
+    {
+      "Owner": "94767582202",
+      "channelname": "TikTok",
+      "jid": "120363420600112378@newsletter",
+      "invite": "0029VbAudIfLCoWuFm5xAB3b",
+      "forwardTo": "120363420305811672@newsletter",
+      "react": ".cnrr",
+      "Date": "2025/09/05",
+      "deleteDelay": "4000"
     }
   ]
 }

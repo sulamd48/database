@@ -1,0 +1,13 @@
+{
+  "classes": [
+    {
+      "id": 1,
+      "subject": "Maths",
+      "link": "https://zoom.us/j/123",
+      "description": "Algebra revision",
+      "time": "18:30",
+      "date": "2025-03-20",
+      "timestamp": 1742482200000
+    }
+  ]
+}

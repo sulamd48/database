@@ -2,12 +2,12 @@
   "classes": [
     {
       "id": 1,
-      "subject": "sinhala",
+      "subject": "Maths",
       "link": "https://zoom.us",
-      "description": "test",
-      "time": "09:15",
-      "date": "2025-12-14",
-      "timestamp": 1765703700000
+      "description": "Algebra",
+      "time": "18:30",
+      "date": "2025-03-20",
+      "timestamp": 1742495400000
     }
   ]
 }
